@@ -1,7 +1,7 @@
 br/com/unipar/coffeShop/entities/additional/SourCreamIce.java
  br.com.unipar.coffeShop.entities.additional.SourCreamIce
-br/com/unipar/coffeShop/entities/BasicOrder.java
- br.com.unipar.coffeShop.entities.BasicOrder
+br/com/unipar/coffeShop/entities/additional/CondensedMilk.java
+ br.com.unipar.coffeShop.entities.additional.CondensedMilk
 br/com/unipar/coffeShop/entities/additional/NestMilk.java
  br.com.unipar.coffeShop.entities.additional.NestMilk
 br/com/unipar/coffeShop/entities/flavor/EspressPanna.java
@@ -20,17 +20,17 @@ br/com/unipar/coffeShop/entities/additional/PowderedChocolate.java
  br.com.unipar.coffeShop.entities.additional.PowderedChocolate
 br/com/unipar/coffeShop/entities/flavor/ChocoMilk.java
  br.com.unipar.coffeShop.entities.flavor.ChocoMilk
-br/com/unipar/coffeShop/entities/flavor/CoffeMilk.java
- br.com.unipar.coffeShop.entities.flavor.CoffeMilk
-br/com/unipar/coffeShop/entities/MediumSize.java
- br.com.unipar.coffeShop.entities.MediumSize
 br/com/unipar/coffeShop/entities/BigSize.java
  br.com.unipar.coffeShop.entities.BigSize
 br/com/unipar/coffeShop/entities/additional/Cookie.java
  br.com.unipar.coffeShop.entities.additional.Cookie
+br/com/unipar/coffeShop/entities/MediumSize.java
+ br.com.unipar.coffeShop.entities.MediumSize
+br/com/unipar/coffeShop/entities/BasicOrder.java
+ br.com.unipar.coffeShop.entities.BasicOrder
 br/com/unipar/coffeShop/entities/flavor/Coffe.java
  br.com.unipar.coffeShop.entities.flavor.Coffe
-br/com/unipar/coffeShop/entities/additional/CondensedMilk.java
- br.com.unipar.coffeShop.entities.additional.CondensedMilk
+br/com/unipar/coffeShop/entities/flavor/CoffeMilk.java
+ br.com.unipar.coffeShop.entities.flavor.CoffeMilk
 br/com/unipar/coffeShop/runner/Main.java
  br.com.unipar.coffeShop.runner.Main

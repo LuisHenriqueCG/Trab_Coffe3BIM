@@ -7,6 +7,9 @@ public class BasicOrder implements Order{
     
     @Override
     public double calculate() {
+       
+        System.out.println("Basic");
+       
         return 0;
     }
 }
