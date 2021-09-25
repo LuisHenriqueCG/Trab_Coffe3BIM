@@ -23,7 +23,7 @@ public class Main {
         Order order5 = new SourCreamIce(new NestMilk(new BigSize(new Coffe())));
                 
         System.out.println("Bebida: Mocha \n"
-                + "Adicionais: Cookie, CondensedMilk \n"
+                + "Adicionais: Biscoito, Leite Condensado \n"
                 + "Tamanho da xicara: Grande(acrescimo de 35%) \n"
                 + "Valor Total: " + order1.calculateOrder());
         
