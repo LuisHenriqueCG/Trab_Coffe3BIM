@@ -8,7 +8,7 @@ public class CoffeMilk implements Order{
     private double VALUE = 1.75;
 
     @Override
-    public double calculate() {
+    public double calculateOrder() {
         return VALUE;
     }
 

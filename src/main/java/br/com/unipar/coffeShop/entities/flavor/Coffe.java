@@ -9,7 +9,7 @@ public class Coffe implements Order {
 
 
     @Override
-    public double calculate() {
+    public double calculateOrder() {
         return VALUE;
     }
 

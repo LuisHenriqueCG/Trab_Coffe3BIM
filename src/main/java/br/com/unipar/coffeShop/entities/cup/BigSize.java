@@ -1,4 +1,4 @@
-package br.com.unipar.coffeShop.entities;
+package br.com.unipar.coffeShop.entities.cup;
 
 import br.com.unipar.coffeShop.controller.Order;
 import br.com.unipar.coffeShop.controller.OrderDecorator;
@@ -12,6 +12,6 @@ public class BigSize extends OrderDecorator{
     }
 
     @Override
-    public double calculate() {
-        return super.calculate() * PERCENTAGE;  }
+    public double calculateOrder() {
+        return super.calculateOrder() * PERCENTAGE;  }
 }

@@ -12,7 +12,7 @@ public class Cookie extends OrderDecorator{
     }
 
     @Override
-    public double calculate() {
-        return super.calculate() + VALUE;
+    public double calculateOrder() {
+        return super.calculateOrder() + VALUE;
     }
 }
