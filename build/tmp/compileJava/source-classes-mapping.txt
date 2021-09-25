@@ -22,8 +22,8 @@ br/com/unipar/coffeShop/controller/OrderDecorator.java
  br.com.unipar.coffeShop.controller.OrderDecorator
 br/com/unipar/coffeShop/entities/additional/PowderedChocolate.java
  br.com.unipar.coffeShop.entities.additional.PowderedChocolate
-br/com/unipar/coffeShop/entities/flavor/ChocoMilk.java
- br.com.unipar.coffeShop.entities.flavor.ChocoMilk
+br/com/unipar/coffeShop/entities/flavor/Mocha.java
+ br.com.unipar.coffeShop.entities.flavor.Mocha
 br/com/unipar/coffeShop/entities/flavor/CoffeMilk.java
  br.com.unipar.coffeShop.entities.flavor.CoffeMilk
 br/com/unipar/coffeShop/controller/Order.java
@@ -32,7 +32,7 @@ br/com/unipar/coffeShop/entities/additional/Cookie.java
  br.com.unipar.coffeShop.entities.additional.Cookie
 br/com/unipar/coffeShop/entities/additional/CinnamonPowder.java
  br.com.unipar.coffeShop.entities.additional.CinnamonPowder
-br/com/unipar/coffeShop/entities/flavor/Mocha.java
- br.com.unipar.coffeShop.entities.flavor.Mocha
 br/com/unipar/coffeShop/runner/Main.java
  br.com.unipar.coffeShop.runner.Main
+br/com/unipar/coffeShop/entities/flavor/ChocoMilk.java
+ br.com.unipar.coffeShop.entities.flavor.ChocoMilk
